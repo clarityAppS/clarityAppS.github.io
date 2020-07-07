@@ -6,15 +6,7 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  navigation: []
   cta:
     url: "/"
     button_text: home
