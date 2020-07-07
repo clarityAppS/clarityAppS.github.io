@@ -21,7 +21,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2020/07/07/screen_shot_2020-07-04_at_6-removebg-preview.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
