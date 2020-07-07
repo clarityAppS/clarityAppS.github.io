@@ -12,17 +12,16 @@ page_sections:
     button_text: home
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: coming soon.
+  content: ''
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2020/07/07/screen_shot_2020-07-04_at_6-removebg-preview.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
